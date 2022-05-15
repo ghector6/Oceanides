@@ -47,8 +47,13 @@ Allowing users or sponsors to contribute and become partners with our community 
 ## La distribución del proyecto se realizó de la forma en la que el mermaid.md especifica, por cuestiones de tiempo no nos fue posible  juntar los proyectos por lo cual dejamos link a los repositorios en donde se trabajó 
 
 - repositorio de backEnd Metodos paraobtener listas, graficas y specs por Jocelyn y Hector:
+La estructura de esta parte del backEnd está construida por medio de modulos en clases que se conectan con el servidor cada modulo con sus pruebas  de la siguiente manera: 
 
 https://github.com/ghector6/Oceanides-Backend-Methods.git
+
+[![](https://mermaid.ink/img/pako:eNplkEEKwjAQRa8yzNb2AsVd9QK6zWZIRhtIGkmmgtTe3di00OosQvj__c8wI-pgGBvUjlI6WbpH8qqHPFeOT45wfNc1PLIrVrehlxic41iQ8v6Zu8y3xmreoYs2YxcmkyOwbZyX-YHHYgEcIAllHTxLF0wq-rRNwtK6yRSh_dqruAuWwQo9R0_W5JPMaYXSsWeFTf4avtHgRKHqp4wOD0PCZ2MlRGxu5BJXSIOE66vX2EgceIWWyy7U9AG-5HlH)](https://mermaid.live/edit#pako:eNplkEEKwjAQRa8yzNb2AsVd9QK6zWZIRhtIGkmmgtTe3di00OosQvj__c8wI-pgGBvUjlI6WbpH8qqHPFeOT45wfNc1PLIrVrehlxic41iQ8v6Zu8y3xmreoYs2YxcmkyOwbZyX-YHHYgEcIAllHTxLF0wq-rRNwtK6yRSh_dqruAuWwQo9R0_W5JPMaYXSsWeFTf4avtHgRKHqp4wOD0PCZ2MlRGxu5BJXSIOE66vX2EgceIWWyy7U9AG-5HlH)
+
+
 
 
 
